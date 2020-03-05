@@ -11,6 +11,6 @@ message AuthorResponse {
     string name = 2;
 }
 
-service AuthorService {
+service Author {
     rpc GetAuthor(AuthorRequest) returns (AuthorResponse);
 }
