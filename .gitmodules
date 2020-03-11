@@ -5,3 +5,4 @@
 [submodule "grpc-python-book-client"]
 	path = grpc-python-book-client
 	url = git@github.com:kekhuay/grpc-python-book-client.git
+	branch = master
