@@ -1,3 +1,3 @@
-[submodule "todo-server"]
-	path = todo-server
-	url = git@github.com:kekhuay/grpc-todo-server-python.git
+[submodule "grpc-python-book-server"]
+	path = grpc-python-book-server
+	url = git@github.com:kekhuay/grpc-python-book-server.git
