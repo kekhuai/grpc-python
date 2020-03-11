@@ -1,3 +1,6 @@
 [submodule "grpc-python-book-server"]
 	path = grpc-python-book-server
 	url = git@github.com:kekhuay/grpc-python-book-server.git
+[submodule "grpc-python-book-client"]
+	path = grpc-python-book-client
+	url = git@github.com:kekhuay/grpc-python-book-client.git
